@@ -1,2 +1,2 @@
 # AAAAAA
-A Lang i made because bored in python
+A Language i made because bored in python

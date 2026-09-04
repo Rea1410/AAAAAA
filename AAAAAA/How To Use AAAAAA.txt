@@ -1,0 +1,49 @@
+AAAAAA
+Another programming language i made in python because bored :)
+This language just contain a and A
+and this language only can output a - z and input only to pause
+
+avaiable now:
+aAAAAA -> a
+AaAAAA -> b
+AAaAAA -> c
+AAAaAA -> d
+AAAAaA -> e
+AAAAAa -> f
+aaAAAA -> g
+aAaAAA -> h
+aAAaAA -> i
+aAAAaA -> j 
+aAAAAa -> k
+aaaAAA -> l
+aaAaAA -> m
+aaAAaA -> n
+aaAAAa -> o
+aaaaAA -> p
+aaaAaA -> q
+aaaAAa -> r
+AaAAaA -> s
+AAaAAa -> t
+AAAaAa -> u
+AAAaaA -> v
+AAAaaa -> w
+AaaAAA -> x
+AaAaAA -> y
+AAaAaA -> z
+aaaaaa -> space
+AAAAAA -> input
+aAaaAa -> start output
+aaAAaa -> Close output
+
+Example:
+
+code:
+aAaaAa aAaAAA AAAAaA aaaAAA aaaAAA aaAAAa aaaaaa AAAaaa aaAAAa aaaAAa aaaAAA AAAaAA aaAAaa
+AAAAAA
+
+compiled:
+print("hello world")
+input()
+
+
+Note: Always use the compiler in the Code.AAAAAA directory

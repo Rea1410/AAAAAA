@@ -46,4 +46,4 @@ print("hello world")
 input()
 
 
-Note: Always use the compiler in the Code.AAAAAA directory
+Note: compiler need to be run in the same directory as the code.AAAAAA
